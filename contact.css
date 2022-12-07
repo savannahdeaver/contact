@@ -17,5 +17,6 @@
 .tableau{
     text-decoration: underline;
     font-weight: 300;
+    position: relative;
 }
     
